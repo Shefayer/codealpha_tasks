@@ -1,6 +1,5 @@
-===============================
-Basic Network Sniffer using Scapy
-===============================
+Basic Network Sniffer using Scapy:
+
 
 Author: Md. Shefayer Ahmed  
 Description: This Python script captures and analyzes network packets in real-time using the Scapy library. It identifies key packet information such as protocol type, source and destination IP addresses, ports (for TCP/UDP), and displays a portion of the raw payload.
